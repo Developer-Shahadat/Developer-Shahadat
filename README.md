@@ -1,7 +1,7 @@
 ![programming](https://github.com/Developer-Shahadat/Developer-Shahadat/assets/91413520/02be51bd-9229-4a77-acb5-d914e0ba68b0)
 
 <h1 align="center">Hi 👋, I'm Shahadat</h1>
-<h3 align="center">I'm WordPress Developer & Mern Stack Developer</h3>
+<h3 align="center">I'm Mern Stack Developer & WordPress Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-shahadat&label=Profile%20views&color=0e75b6&style=flat" alt="developer-shahadat" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Home**
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **Express.js & Next.js**
 
 - 👯 I’m looking to collaborate on **Github**
 
